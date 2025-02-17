@@ -1,0 +1,9 @@
+{
+    "users" :[
+        {
+            "name" : "akhil" ,
+            "id"   :1 ,
+            "role" :"developer"
+        }
+    ]
+}
